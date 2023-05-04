@@ -16,8 +16,10 @@ Wiring :
 See here : [wiring intructions](Wiring_Instructions.txt)
 
 Install Libraries :
-These are the zip file libraries [download](External_Libraries)
+These are the [ZIP file libraries](External_Libraries)
 Now Open the Arduino IDE, Import the above two zip files as "Import Library as ZIP file"
+
+NOTE: THESE LIBRARIES BELONG TO THEIR RESPECTIVE OWNERS. THESE ARE NOT MADE BY ME. I HAVE ADDED THEM SO THAT NO PROBLEM ARISES DUE TO VERSION MISMATCH.
 
 Upload The code:
 Paste the code in the ide after importing libraries [code](Arduino_Alarm_Clock.ino)
