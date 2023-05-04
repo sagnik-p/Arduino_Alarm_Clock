@@ -2,6 +2,8 @@
 
 This repo contains the files needed to make an alarm clock with arduino (nano)
 
+IN SHORT : Clone this repo onto your computer, complete wiring, import libraries as zip, upload code, enjoy:)
+
 You will need the following modules:
 1. Arduino board (obviously)
 2. LCD Module 16*2
@@ -14,7 +16,7 @@ Wiring :
 See here : [wiring intructions](wiring_instructions.txt)
 
 Install Libraries :
-First download the libraries(zip files) [download](External_Libraries)
+These are the zip file libraries [download](External_Libraries)
 Now Open the Arduino IDE, Import the above two zip files as "Import Library as ZIP file"
 
 Upload The code:
