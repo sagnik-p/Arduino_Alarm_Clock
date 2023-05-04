@@ -13,14 +13,14 @@ You will need the following modules:
 6. Wires/breadboard/Circuit Board to connect everything together
 
 Wiring :
-See here : [wiring intructions](wiring_instructions.txt)
+See here : [wiring intructions](Wiring_Instructions.txt)
 
 Install Libraries :
 These are the zip file libraries [download](External_Libraries)
 Now Open the Arduino IDE, Import the above two zip files as "Import Library as ZIP file"
 
 Upload The code:
-Paste the code in the ide after importing libraries [code](alarm_clk_arduino.ino)
+Paste the code in the ide after importing libraries [code](Arduino_Alarm_Clock.ino)
 Compile And Upload
 
 Enjoy your small and cute Alarm Clock :)
