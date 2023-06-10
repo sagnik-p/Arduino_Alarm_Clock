@@ -21,3 +21,17 @@
 
 #Buzzer/led for the alarm:
 >output = 13
+
+
+
+
+
+
+Apart from this, 
+You also need to connect appropriate resistors
+with all the push buttons
+
+Also,
+you need to manually adjust/programmatically adjust brightness/contrast of your LCD
+>manual when you have a simple LCD, with no other board
+>programatically when you have an LCD with 12c interface.
