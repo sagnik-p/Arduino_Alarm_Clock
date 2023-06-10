@@ -34,4 +34,12 @@ with all the push buttons
 Also,
 you need to manually adjust/programmatically adjust brightness/contrast of your LCD
 >manual when you have a simple LCD, with no other board
->programatically when you have an LCD with 12c interface.
+
+>programatically when you have an LCD with I2c interface
+>In that case, you only get two wires SCL and SDA for the LCD, The entire LCD code needs to change
+
+
+
+
+Thanks
+Please Star this repo if you found it useful/interesting.
