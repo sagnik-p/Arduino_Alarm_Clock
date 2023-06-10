@@ -37,9 +37,3 @@ you need to manually adjust/programmatically adjust brightness/contrast of your 
 
 >programatically when you have an LCD with I2c interface
 >In that case, you only get two wires SCL and SDA for the LCD, The entire LCD code needs to change
-
-
-
-
-Thanks
-Please Star this repo if you found it useful/interesting.
