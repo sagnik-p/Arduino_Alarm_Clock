@@ -19,21 +19,21 @@
 >SCL of DS3231 = A5 of Arduino
 >SDA of DS3231 = A4 of Arduino
 
-#Buzzer/led for the alarm:
+## Buzzer/led for the alarm:
 >output = 13
 
-
-
-
-
-
+## IMPORTANT:
+'''
 Apart from this, 
 You also need to connect appropriate resistors
-with all the push buttons
+with all the push buttons (10K resistors), as you have to do with any arduino board.
+'''
 
 Also,
 you need to manually adjust/programmatically adjust brightness/contrast of your LCD
+## Normal LCD module
 >manual when you have a simple LCD, with no other board
-
+## I2C LCD module
 >programatically when you have an LCD with I2c interface
 >In that case, you only get two wires SCL and SDA for the LCD, The entire LCD code needs to change
+>Also you have to import the necessary library
