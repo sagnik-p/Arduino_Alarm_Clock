@@ -35,5 +35,5 @@ you need to manually adjust/programmatically adjust brightness/contrast of your 
 >manual when you have a simple LCD, with no other board
 ## I2C LCD module
 >programatically when you have an LCD with I2c interface
->In that case, you only get two wires SCL and SDA for the LCD, The entire LCD code needs to change
->Also you have to import the necessary library
+>In that case, you only get two wires SCL and SDA for the LCD, the code has to be modified a little
+>Also you have to import the necessary  I2C LCD library
