@@ -19,10 +19,10 @@ Install Libraries :
 These are the [ZIP file libraries](External_Libraries)
 Now Open the Arduino IDE, Import the above two zip files as "Import Library as ZIP file"
 
-NOTE: THESE LIBRARIES BELONG TO THEIR RESPECTIVE OWNERS. THESE ARE NOT MADE BY ME. I HAVE ADDED THEM SO THAT NO PROBLEM ARISES DUE TO VERSION MISMATCH.
+NOTE: THESE LIBRARIES BELONG TO THEIR RESPECTIVE OWNERS. KUDOS TO THEM FOR MAKING THEM.
 
 Upload The code:
 Paste the code in the ide after importing libraries [code](Arduino_Alarm_Clock.ino)
-Compile And Upload
+Compile And Upload.
 
 Enjoy your small and cute Alarm Clock :)
